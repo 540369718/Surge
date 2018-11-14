@@ -1,24 +1,201 @@
+# Apple
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,lookup-api.apple.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
+PROCESS-NAME,storedownloadd
+USER-AGENT,com.apple.appstored*
+# Appledaily
+DOMAIN-SUFFIX,appledaily.com
+# Amazon
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,awsstatic.com
+# Android
+DOMAIN-SUFFIX,android.com
+# Angularjs
+DOMAIN-SUFFIX,angularjs.org
+# Bitbucket 代码托管
+DOMAIN-SUFFIX,bitbucket.org
+# Blogger
 DOMAIN-KEYWORD,blogspot
+DOMAIN-SUFFIX,blogger.com
+# Bloomberg 彭博
+DOMAIN-SUFFIX,bloomberg.com
+# Box 在线文件共享、云内容管理
+DOMAIN-SUFFIX,box.net
+# Chrome
+DOMAIN-SUFFIX,chromium.org
+# CloudApp
+DOMAIN-SUFFIX,cl.ly
+# CloudFlare
+DOMAIN-SUFFIX,cloudflare.com
+# CloudMagic 邮件管理
+DOMAIN-SUFFIX,cloudmagic.com
+# CocoaPods 依赖管理
+DOMAIN-SUFFIX,cocoapods.org
+# Crash 统计Crash的工具
+DOMAIN-SUFFIX,crashlytics.com
+# DayOne 个人日记
+DOMAIN-SUFFIX,dayone.me
+# DigiCert SSL认证机构
+DOMAIN-SUFFIX,digicert.com
+# DNSimple
+DOMAIN-SUFFIX,dnsimple.com
+# Docker
+DOMAIN-SUFFIX,docker.com
+# Dribbble 设计师社区
+DOMAIN-SUFFIX,dribbble.com
+# Dropbox
 DOMAIN-KEYWORD,dropbox
+# Droplr 轻量分享工具
+DOMAIN-SUFFIX,d.pr
+DOMAIN-SUFFIX,droplr.com
+# DuckDuckGo 搜索引擎
+DOMAIN-SUFFIX,duckduckgo.com
+# Engadget 电子产品博客
+DOMAIN-SUFFIX,engadget.com
+# Facebook
 DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.com
+# Fastly 云计算
+DOMAIN-SUFFIX,fastly.net
+# Feedly
+DOMAIN-SUFFIX,feedly.com
+# Flickr
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,staticflickr.com
+# GCP
+DOMAIN-SUFFIX,appspot.com
+# Github
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
+# Gmail
+DOMAIN-KEYWORD,gmail
+# Go
+DOMAIN-SUFFIX,golang.org
+# GoDddy
+DOMAIN-SUFFIX,godaddy.com
+# Google
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,g.co
+# Gravatar 头像服务
+DOMAIN-SUFFIX,gravatar.com
+# IFTTT
+DOMAIN-SUFFIX,ift.tt
+# ImageShack 图库
+DOMAIN-SUFFIX,imageshack.us
+# Imgur 网络相册
+DOMAIN-SUFFIX,imgur.com
+# Instagram
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+# Instapaper
+DOMAIN-SUFFIX,instapaper.com
+# JSHint JS代码规范工具
+DOMAIN-SUFFIX,jshint.com
+# LINE
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
+# Medium
+DOMAIN-SUFFIX,medium.com
+# ModMyi Cydia软件源
+DOMAIN-SUFFIX,modmyi.com
+# Oculus
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
+# OpenWRT
+DOMAIN-SUFFIX,openwrt.org
+# Periscope
+DOMAIN-SUFFIX,periscope.tv
+# Skype
+DOMAIN-SUFFIX,skype.com
+# SoundCloud 线上音乐分享
+DOMAIN-SUFFIX,soundcloud.com
+# Spotify
+DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,t.co
+# StackOverFlow
+DOMAIN-SUFFIX,stackoverflow.com
+# Static
+DOMAIN-SUFFIX,gstatic.com
+# Symantec
+DOMAIN-SUFFIX,symauth.com
+# Tapbots
+DOMAIN-SUFFIX,tapbots.com
+DOMAIN-SUFFIX,tapbots.net
+# Telegram
+IP-CIDR,67.198.55.0/24,no-resolve
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.8.0/22,no-resolve
+IP-CIDR,91.108.12.0/22,no-resolve
+IP-CIDR,91.108.16.0/22,no-resolve
+IP-CIDR,91.108.56.0/22,no-resolve
+IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,149.154.164.0/22,no-resolve
+IP-CIDR,149.154.168.0/22,no-resolve
+IP-CIDR,149.154.172.0/22,no-resolve
+IP-CIDR,205.172.60.0/22,no-resolve
 DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,tw
-DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,t.me
+# Tumblr
+DOMAIN-SUFFIX,tmblr.co
+DOMAIN-SUFFIX,tumblr.com
+# Twitch
+DOMAIN-SUFFIX,twitch.tv
+# Twitter
+DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,vine.co
+# Vimeo
+DOMAIN-SUFFIX,vimeo.com
+# Whatsapp
+DOMAIN-KEYWORD,whatsapp
+# Wikipedia
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.com
+DOMAIN-SUFFIX,wikipedia.org
+# WSJ
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wsj.net
+# Yahoo
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,sstatic.net
+# VPS
+DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,linode.com
+DOMAIN-SUFFIX,vultr.com
+DOMAIN-SUFFIX,netdedi.com
+DOMAIN-SUFFIX,rfchost.com
+DOMAIN-SUFFIX,ucloudbiz.kt.com
+DOMAIN-SUFFIX,servercat.me
+# 短链接
+DOMAIN-SUFFIX,tiny.cc
+DOMAIN-SUFFIX,tinypic.com
+DOMAIN-SUFFIX,is.gd
+DOMAIN-SUFFIX,v.gd
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,j.mp

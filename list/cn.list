@@ -3,20 +3,31 @@ DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,zh-CN
 DOMAIN-SUFFIX,CN
 USER-AGENT,MApi*
+# AcFun
+DOMAIN-SUFFIX,acfun.cn
 # Ali
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,aliyun
 DOMAIN-SUFFIX,tmall.com
+# Apple
+DOMAIN,guzzoni.apple.com
+DOMAIN,reserve-prime.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+USER-AGENT,App%20Store*
+USER-AGENT,MacAppStore*
+USER-AGENT,%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0*
 # Baidu
 DOMAIN-KEYWORD,baidu
+# BiliBili
+DOMAIN-SUFFIX,bilibili.com
 # iQiYi
 DOMAIN-SUFFIX,iqiyi.com
 # JD
 DOMAIN-SUFFIX,jd.com
 # LinkedIn
-DOMAIN,cn.linkedin.com,DIRECT
+DOMAIN,cn.linkedin.com
 # Scholar
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,edu.cn
@@ -26,7 +37,6 @@ DOMAIN-SUFFIX,engineeringvillage.com
 DOMAIN-SUFFIX,springer.com
 # Tencent
 DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,imap.qq.com
 USER-AGENT,WeChat*
 USER-AGENT,MicroMessenger*
 # Mi
@@ -39,8 +49,16 @@ DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,outlook.office365.com
 DOMAIN-SUFFIX,smtp.office365.com
 DOMAIN-SUFFIX,smtp-mail.outlook.com
+# SteamCN
+DOMAIN-SUFFIX,steamcn.com
+# V2EX
+DOMAIN-SUFFIX,v2ex.com
+# Weibo
+DOMAIN-SUFFIX,weibo.com
 # Youku
 DOMAIN-SUFFIX,youku.com
+# Zimuzu
+DOMAIN-SUFFIX,zimuzu.tv
 # Misc
 DOMAIN,cn.engadget.com
 DOMAIN-SUFFIX,biquge.com.tw
@@ -52,12 +70,8 @@ DOMAIN-SUFFIX,mathjax.org
 DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,qdaily.com
 DOMAIN-SUFFIX,spot.im
-DOMAIN-SUFFIX,steamcn.com
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,zmzapi.com
-DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmzfile.com
 DOMAIN-SUFFIX,zmzapi.net
