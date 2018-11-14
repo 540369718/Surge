@@ -1,7 +1,7 @@
 # China
 DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,zh-CN
-DOMAIN-SUFFIX,CN
+DOMAIN-SUFFIX,cn
 USER-AGENT,MApi*
 # AcFun
 DOMAIN-SUFFIX,acfun.cn
@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,steamcn.com
 DOMAIN-SUFFIX,v2ex.com
 # Weibo
 DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,t.cn
 # Youku
 DOMAIN-SUFFIX,youku.com
 # Zimuzu
