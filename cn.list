@@ -1,0 +1,63 @@
+# China
+DOMAIN-KEYWORD,-cn
+DOMAIN-KEYWORD,zh-CN
+DOMAIN-SUFFIX,CN
+USER-AGENT,MApi*
+# Ali
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,aliyun
+DOMAIN-SUFFIX,tmall.com
+# Baidu
+DOMAIN-KEYWORD,baidu
+# iQiYi
+DOMAIN-SUFFIX,iqiyi.com
+# JD
+DOMAIN-SUFFIX,jd.com
+# LinkedIn
+DOMAIN,cn.linkedin.com,DIRECT
+# Scholar
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,engineeringvillage.com
+DOMAIN-SUFFIX,springer.com
+# Tencent
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,imap.qq.com
+USER-AGENT,WeChat*
+USER-AGENT,MicroMessenger*
+# Mi
+DOMAIN-SUFFIX,mi.com
+# Microsoft
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,outlook.office365.com
+DOMAIN-SUFFIX,smtp.office365.com
+DOMAIN-SUFFIX,smtp-mail.outlook.com
+# Youku
+DOMAIN-SUFFIX,youku.com
+# Misc
+DOMAIN,cn.engadget.com
+DOMAIN-SUFFIX,biquge.com.tw
+DOMAIN-SUFFIX,evernote.com
+DOMAIN-SUFFIX,ip.bjango.com
+DOMAIN-SUFFIX,moke.com
+DOMAIN-SUFFIX,maoyun.tv
+DOMAIN-SUFFIX,mathjax.org
+DOMAIN-SUFFIX,name.com
+DOMAIN-SUFFIX,qdaily.com
+DOMAIN-SUFFIX,spot.im
+DOMAIN-SUFFIX,steamcn.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,zmzapi.com
+DOMAIN-SUFFIX,zimuzu.tv
+DOMAIN-SUFFIX,zmzfile.com
+DOMAIN-SUFFIX,zmzapi.net
