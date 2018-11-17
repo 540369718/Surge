@@ -186,12 +186,17 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,sstatic.net
 # VPS
 DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,gigsgigscloud.com
 DOMAIN-SUFFIX,linode.com
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,netdedi.com
 DOMAIN-SUFFIX,rfchost.com
 DOMAIN-SUFFIX,ucloudbiz.kt.com
 DOMAIN-SUFFIX,servercat.me
+DOMAIN-SUFFIX,gubo.org
+DOMAIN-SUFFIX,vpscang.com
+DOMAIN-SUFFIX,doub.io
+DOMAIN-SUFFIX,teddysun.com
 # 短链接
 DOMAIN-SUFFIX,tiny.cc
 DOMAIN-SUFFIX,tinypic.com
