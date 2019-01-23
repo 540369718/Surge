@@ -16,8 +16,9 @@ USER-AGENT,com.apple.appstored*
 DOMAIN-SUFFIX,appledaily.com
 # Amazon
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,cloudfront.net
 # Android
 DOMAIN-SUFFIX,android.com
 # Angularjs
