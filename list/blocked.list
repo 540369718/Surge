@@ -63,6 +63,8 @@ DOMAIN-SUFFIX,droplr.com
 DOMAIN-SUFFIX,duckduckgo.com
 # Engadget 电子产品博客
 DOMAIN-SUFFIX,engadget.com
+# Epic Game
+DOMAIN-SUFFIX,epicgames.com
 # Facebook
 DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,facebook.com
